@@ -10,15 +10,11 @@
   </a>
 </div>
 <h1>
-  hey there, I am Javlonbek
+  Hey there, I am Javlonbek
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-### :man_technologist: About Me :
-I am a .Net Developer from Uzbekistan 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Javlonbek-dev&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javlonbek-dev&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javlonbek-dev)](https://github.com/anuraghazra/github-readme-stats)
+ 
