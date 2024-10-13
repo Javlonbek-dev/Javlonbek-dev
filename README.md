@@ -10,7 +10,7 @@
   </a>
 </div>
 <h1 color="red">
-  Hello, I am Javlonbek
+  Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
